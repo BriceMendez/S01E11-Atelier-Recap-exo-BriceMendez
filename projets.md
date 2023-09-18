@@ -4,7 +4,7 @@
 
 *Développeur web junior, en formation*
 
-[Acceuil](README.md) - [Projets](projets.md) - [CV]() - [Contact]()
+[Acceuil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact](Contatc.md)
 
 # Mes projets
 
@@ -15,4 +15,4 @@
 | Corp | 2020 | HTML, CSS | [Corp]() |
 
 ---
-© 2023 - Brice Mendez - [Me contacter]()
+© 2023 - Brice Mendez - [Me contacter](Contact.md)
